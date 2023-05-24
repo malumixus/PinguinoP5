@@ -1,2 +1,3 @@
-# proyecto2p5
-segundo proyecto de p5 js
+# Pinguino 
+### es solo un pinguino en p5
+no es parte de los trabajos de AM
